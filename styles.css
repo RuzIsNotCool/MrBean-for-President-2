@@ -1,0 +1,50 @@
+.a{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    color: #4286f4;
+}
+.b{
+    padding: 30px;
+    background: black;
+    font-family: 'Righteous', cursive;
+    margin: 10px;
+}
+.c{
+    
+    padding: 30px;
+    background: black;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.d{
+   background: #4286f4;
+}
+.e{
+    display: flex;
+    justify-content: center;
+}
+.f{
+    padding: 30px;
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px; 
+}
+
+.button:hover {
+  background-color: #4CAF50;
+  color: white;
+  
+}
+
+
+
+
+
+
